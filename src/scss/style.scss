@@ -1,0 +1,16 @@
+//.подключение файла normolize
+@import "normalize";
+//.подключение файла с переменными
+@import "var";
+@import "main";
+//.подключение файла tapography
+@import "typography";
+//.подключение файла header
+@import "header";
+@import "hero";
+@import "slider";
+@import "services";
+@import "about-company";
+@import "footer";
+//.подключение файла медия запросов
+@import "media";

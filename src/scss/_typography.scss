@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap");
+html {
+  font-size: 12px;
+  font-family: Roboto;
+}
+h1 {
+  font-family: Roboto;
+  font-style: Bold;
+  font-size: 5.3rem;
+  line-height: 6.25rem;
+  line-height: 100%;
+  letter-spacing: 5%;
+}
+h2 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 3.3rem;
+  line-height: 4.08rem;
+  /* identical to box height */
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.15rem;
+  line-height: 1.92rem;
+  /* identical to box height */
+}
